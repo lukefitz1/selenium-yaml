@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="allSuites">
+  <suite-files>
+    <suite-file path="base_tests.xml" />
+    <suite-file path="aaa_tests.xml" />
+  </suite-files>
+</suite>
